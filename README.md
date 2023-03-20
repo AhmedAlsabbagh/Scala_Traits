@@ -1,1 +1,1 @@
-# Scala_Traits
+there are some examples of scala traits
